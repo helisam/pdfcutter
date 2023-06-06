@@ -19,3 +19,10 @@ pids
 # Dependency directories
 node_modules/
 jspm_packages/
+
+#Python 
+#PYC
+*.pyc
+
+#Pycharm
+.idea
